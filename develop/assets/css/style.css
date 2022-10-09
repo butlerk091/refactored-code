@@ -24,6 +24,11 @@ body {
     color: #d9dcd6;
 }
 
+/* 
+Affected "div" attribute was changed to a "nav" element was changed to reflect changes made in the index 
+file to carry over desired css rules to have the headers display without dots and side by side, with applied styling
+rules for visuals.
+*/
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -50,11 +55,19 @@ p {
     font-size: 16px;
 }
 
-.hero {
+ /*
+ Name of the following class was changed to reflect changes made in the index file, making it known that the image
+ is unimportant and for background purposes.
+ */
+.background-image {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
-    /*background-image: url("../images/digital-marketing-meeting.jpg");*/
+    /* 
+    The following line of code was commented out for being unnecessary.
+    
+    background-image: url("../images/digital-marketing-meeting.jpg");
+    */
     background-size: cover;
     background-position: center;
 }
@@ -85,7 +98,9 @@ p {
     color: #ffffff;
 }
 
-/*
+/* 
+The following lines of code were commented out for being unnecessary and repetitive.
+
 .online-reputation-management {
     margin-bottom: 20px;
     padding: 50px;
@@ -102,20 +117,24 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
-} */
+} 
+*/
 
 .search-engine-optimization img, .online-reputation-management img, .social-media-marketing img {
     max-height: 200px;
 }
 
 /*
+The following lines of code were commented out for being unnecessary and repetitive.
+
 .online-reputation-management img {
     max-height: 200px;
 }
 
 .social-media-marketing img {
     max-height: 200px;
-} */
+} 
+*/
 
 .search-engine-optimization h2, .online-reputation-management h2, .social-media-marketing h2 {
     margin-bottom: 20px;
@@ -123,6 +142,8 @@ p {
 }
 
 /*
+The following lines of code were commented out for being unnecessary and repetitive.
+
 .online-reputation-management h2 {
     margin-bottom: 20px;
     font-size: 36px;
@@ -131,7 +152,8 @@ p {
 .social-media-marketing h2 {
     margin-bottom: 20px;
     font-size: 36px;
-} */
+} 
+*/
 
 .benefits {
     margin-right: 20px;
@@ -150,6 +172,8 @@ p {
 }
 
 /*
+The following lines of code were commented out for being unnecessary and repetitive.
+
 .benefit-brand {
     margin-bottom: 32px;
     color: #ffffff;
@@ -158,7 +182,8 @@ p {
 .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
-} */
+} 
+*/
 
 .benefit-lead h3, .benefit-brand h3, .benefit-cost h3 {
     margin-bottom: 10px;
@@ -166,6 +191,8 @@ p {
 }
 
 /*
+The following lines of code were commented out for being unnecessary and repetitive.
+
 .benefit-brand h3 {
     margin-bottom: 10px;
     text-align: center;
@@ -174,7 +201,8 @@ p {
 .benefit-cost h3 {
     margin-bottom: 10px;
     text-align: center;
-} */
+} 
+*/
 
 .benefit-lead img, .benefit-brand img, .benefit-cost img {
     display: block;
@@ -183,6 +211,8 @@ p {
 }
 
 /*
+The following lines of code were commented out for being unnecessary and repetitive.
+
 .benefit-brand img {
     display: block;
     margin: 10px auto;
@@ -192,7 +222,8 @@ p {
 .benefit-cost img {
     display: block;
     margin: 10px auto;
-} */
+} 
+*/
 
 .footer {
     padding: 30px;
