@@ -9,6 +9,10 @@ This file displays a start-up web application for learning purposes. The code wa
 others reading over that code. 
 (c) Try and use descriptive class names in styling files for the purpose and intent of what that code is going to be used for.
 
+The following is a link to the deployed website: 
+
+https://butlerk091.github.io/refactored-code/#social-media-marketing
+
 ## Installation
 
 To install, you can pull this file from the repository https://github.com/butlerk091/refactored-code and copy it to your own local/remote repository.
